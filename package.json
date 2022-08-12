@@ -1,6 +1,6 @@
 {
-  "name": "venousforum",
-  "version": "0.1.0",
+  "name": "bioclean.uz - Post control services | developed by webpark.uz",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "dev": "next dev",
