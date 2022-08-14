@@ -143,7 +143,7 @@ export const ImageWrapper = styled.div`
 
 	@media (max-width: 510px) {
 		position: static;
-		margin-top: -7.5%;
+		margin-top: auto;
 	}
 
 	@media (max-width: 350px) {
